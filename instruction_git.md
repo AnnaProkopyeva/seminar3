@@ -64,9 +64,9 @@
 
     git log --all
 
+Чтобы посмотреть полный список изменений без лишней информации, используется команда
 
-
-git log --oneline --all
+    git log --oneline --all
 
 git diff
 
