@@ -21,3 +21,25 @@
 Чтобы добавить изменения в индекс для следующего коммита, нужно ввести команду:
 
     git add <filename>
+
+    git commit
+
+    git commit -m "message"
+
+    git commit -a
+
+    git commit -am "message"
+
+    git log
+
+    git log --oneline
+
+    git --all
+
+    git log --oneline --all
+
+    git diff
+
+    git checkout <hash>
+
+
