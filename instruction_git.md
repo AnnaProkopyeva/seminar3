@@ -22,24 +22,28 @@
 
     git add <filename>
 
+## Добавление комментария к изменениям
+
+Чтобы добавить комментарий к сохраненным изменениям, нужно ввести команду:
+    
     git commit
 
-    git commit -m "message"
+git commit -m "message"
 
-    git commit -a
+git commit -a
 
-    git commit -am "message"
+git commit -am "message"
 
-    git log
+git log
 
-    git log --oneline
+git log --oneline
 
-    git --all
+git --all
 
-    git log --oneline --all
+git log --oneline --all
 
-    git diff
+git diff
 
-    git checkout <hash>
+git checkout \<hash>
 
 
