@@ -88,4 +88,4 @@
 
     git checkout master
 
-
+!["Белочка"](image.jpg)
